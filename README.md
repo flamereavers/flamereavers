@@ -1,6 +1,6 @@
 ## <3
 <div align="center">
-<img width="3072" height="2296" alt="Image" src="https://github.com/user-attachments/assets/cb1ddfff-00fe-4fad-885a-5b386768dd22" />
+<img width="736" height="552" alt="Image" src="https://github.com/user-attachments/assets/94692cf8-ec8b-4caf-a104-35bb17db2ff9" />
 
 
   [sagostics strawpage](https://dawnmakerss.straw.page)
